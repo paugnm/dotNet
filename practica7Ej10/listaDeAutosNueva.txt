@@ -1,0 +1,4 @@
+Marca: Ford - Modelo:2015
+Marca: Renault  - Modelo:2017
+Marca: Fiat - Modelo:2020
+Marca: Chevrolet - Modelo:2021

@@ -1,0 +1,13 @@
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.csprojAssemblyReference.cache
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.AssemblyInfoInputs.cache
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.AssemblyInfo.cs
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\bin\Debug\netcoreapp3.1\practica5Ej3.exe
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\bin\Debug\netcoreapp3.1\practica5Ej3.deps.json
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\bin\Debug\netcoreapp3.1\practica5Ej3.runtimeconfig.json
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\bin\Debug\netcoreapp3.1\practica5Ej3.runtimeconfig.dev.json
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\bin\Debug\netcoreapp3.1\practica5Ej3.dll
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\bin\Debug\netcoreapp3.1\practica5Ej3.pdb
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.dll
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.pdb
+C:\Users\Paula\Desktop\Coloquio .Net\practica5Ej3\obj\Debug\netcoreapp3.1\practica5Ej3.genruntimeconfig.cache

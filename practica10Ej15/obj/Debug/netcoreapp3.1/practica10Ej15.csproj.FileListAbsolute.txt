@@ -1,0 +1,13 @@
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\bin\Debug\netcoreapp3.1\practica10Ej15.exe
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\bin\Debug\netcoreapp3.1\practica10Ej15.deps.json
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\bin\Debug\netcoreapp3.1\practica10Ej15.runtimeconfig.json
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\bin\Debug\netcoreapp3.1\practica10Ej15.runtimeconfig.dev.json
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\bin\Debug\netcoreapp3.1\practica10Ej15.dll
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\bin\Debug\netcoreapp3.1\practica10Ej15.pdb
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.csprojAssemblyReference.cache
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.AssemblyInfoInputs.cache
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.AssemblyInfo.cs
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.csproj.CoreCompileInputs.cache
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.dll
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.pdb
+C:\Users\Paula\Desktop\Coloquio .Net\practica10Ej15\obj\Debug\netcoreapp3.1\practica10Ej15.genruntimeconfig.cache
