@@ -1,6 +1,6 @@
-#Seminario de .NET/C#
+# Seminario de .NET/C#
 ___
-##PROGRAMA ANALÍTICO
+## PROGRAMA ANALÍTICO
 - Unidad 1: Introducción a la Plataforma .NET: Características. Common Language Runtime (CLR).
 Microsoft Intermediate Language (MSIL). Compilador Just-In-Time (JIT). Common Type System (CTS).
 Base Classes Library (BCL).
